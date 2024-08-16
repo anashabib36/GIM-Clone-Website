@@ -13,7 +13,8 @@ Welcome to the FitClub Home Page Clone project! home page using only HTML and CS
 ## Overview
 This project is a clone of the FitClub home page, created to practice and improve my knowledge of HTML and CSS.The project replicates the layout and styling of the fitclub home page as closely as possible without using any JavaScript for functionality.
 
-![Gim-website](https://github.com/user-attachments/assets/4d446e4f-68c7-4eb2-85c4-65705bc15164)
+![Gim-website](https://github.com/user-attachments/assets/7bea7578-991a-4a4f-a220-3f69fcf5c440)
+
 
 ## Features
 
